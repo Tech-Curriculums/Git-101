@@ -7,6 +7,6 @@ Each bite-sized tutorial grants an epic skill, and building up to
 learning a huge milestone: the feature-branch-workflow
 
 
-  * git with github and git clone
-  * git with any server (not just github)
-  * git with teams: git-feature-branch-workflow
+  * using github starting with git clone
+  * starting a git repo, interfacing with any server (i.e. bitbucket)
+  * an actual software-team workflow: the feature-branch workflow
