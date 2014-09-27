@@ -8,6 +8,6 @@ learning a huge milestone: the feature-branch workflow
 
 ## Summary
 
-  * g1-Gitting-Started: using github starting with git clone
-  * g2-Gitting-Good: starting a git repo, interfacing with any server (i.e. bitbucket)
-  * g3-Gitting-It-All-Together: an actual software-team workflow: the feature-branch workflow
+  * **g1-using-git-with-github:** using github starting with git clone
+  * **g2-gitting-from-the-ground-up:** starting a git repo, interfacing with any server (i.e. bitbucket)
+  * **g3-a-professional-workflow:** an actual software-team workflow: the feature-branch workflow
