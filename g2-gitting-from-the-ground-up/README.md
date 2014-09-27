@@ -7,7 +7,7 @@ d Dan of Git.
 * [ ] gifs of each step
 
 <p align="center">
-  <img src="../Img/octobiwan.jpg" width="400px"/>
+  <img src="../Img/octobiwan.jpg" width="300px"/>
 </p>
 
 ## Value and what you will be able to do.
