@@ -8,12 +8,14 @@ learning a huge milestone: the feature-branch workflow
 
 ## Summary
 
-<img src="./Img/original.png" width="20px"/>
+<img src="./Img/original.png" width="40px"/>
 
   * **g1-using-git-with-github:** use github, and "go shopping" with git clone
-<img src="./Img/octobiwan.jpg" width="20px"/>
+
+<img src="./Img/octobiwan.jpg" width="40px"/>
 
   * **g2-gitting-from-the-ground-up:** starting a git repo, interfacing with any server (i.e. bitbucket)
 
-<img src="./Img/collabocats.jpg" width="20px"/>
+<img src="./Img/collabocats.jpg" width="40px"/>
+
   * **g3-a-professional-workflow:** actual software-team workflow: the feature-branch workflow
