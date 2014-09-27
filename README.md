@@ -1,5 +1,4 @@
-G
-t-101
+Git-101
 =======
 
 Carefully structured to yield more skills as fast as possible, while providing intuitive understanding of git commands and the spirit of git.
