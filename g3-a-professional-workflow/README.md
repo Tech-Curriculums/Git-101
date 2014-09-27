@@ -5,8 +5,9 @@
 * [ ] screencaps
 * [ ] gifs
 
-
-<img src="../Img/collabocats.jpg" width="200px"/>
+<p align="center">
+  <img src="../Img/collabocats.jpg" width="200px"/>
+</p>
 
 # Feature-Branch Workflow
 

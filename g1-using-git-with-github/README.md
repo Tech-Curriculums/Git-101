@@ -4,7 +4,9 @@
 * [ ] create pics from terminal
 * [ ] replace with gifs from terminal
 
-<img src="../Img/original.png" width="200px"/>
+<p align="center">
+  <img src="../Img/original.png" width="200px"/>
+</p>
 
 This basic workflow will get you past most of the cases you will encounter on a day to day basis.
 
