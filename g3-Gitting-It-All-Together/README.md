@@ -1,7 +1,7 @@
 # Todo
 
-* [ ] value
-* [ ] commands
+* [x] value
+* [x] commands
 * [ ] screencaps
 * [ ] gifs
 
@@ -112,4 +112,19 @@ git push origin master
 
 ## Conclusion
 
-Now you can 
+Cogratulations, now you can work on a real software team : )  because this is what they do.
+
+
+## Merging 
+
+Merge Conflicts -- sometimes things go wrong, watch the following gif to see how to resolve in most cases.
+
+find the merge conflicts with:
+
+```sh
+git status
+```
+
+then vim in to fix it (see gif below)
+
+#End of level 3
