@@ -1,9 +1,9 @@
 2nd Dan of Git.
 
-* [ x ] value write up 
-* [ x ] command list
-* [  ] pics of each step
-* [  ] gifs of each step
+* [x] value write up 
+* [x] command list
+* [ ] pics of each step
+* [ ] gifs of each step
 
 
 ## Value and what you will be able to do.
