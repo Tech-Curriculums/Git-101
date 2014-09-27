@@ -5,7 +5,7 @@
 * [ ] replace with gifs from terminal
 
 <p align="center">
-  <img src="../Img/original.png" width="200px"/>
+  <img src="../Img/original.png" width="400px"/>
 </p>
 
 This basic workflow will get you past most of the cases you will encounter on a day to day basis.

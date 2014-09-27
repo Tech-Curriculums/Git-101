@@ -6,7 +6,7 @@
 * [ ] gifs
 
 <p align="center">
-  <img src="../Img/collabocats.jpg" width="200px"/>
+  <img src="../Img/collabocats.jpg" width="400px"/>
 </p>
 
 # Feature-Branch Workflow
