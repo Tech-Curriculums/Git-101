@@ -1,7 +1,7 @@
 2nd Dan of Git.
 
-* [  ] value write up 
-* [  ] command list
+* [ x ] value write up 
+* [ x ] command list
 * [  ] pics of each step
 * [  ] gifs of each step
 
