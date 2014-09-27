@@ -1,3 +1,6 @@
-I'm not so sure about this name, suggestions please issue?
+# Todo
 
-tags and releases
+* [ ] value
+* [ ] commands
+* [ ] screencaps
+* [ ] gifs
