@@ -6,7 +6,7 @@
 * [ ] gifs
 
 
-![img](../Img/collabocats.jpg)
+<img src="../Img/collabocats.jpg" width="200px"/>
 
 # Feature-Branch Workflow
 
