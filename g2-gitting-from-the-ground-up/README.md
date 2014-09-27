@@ -1,10 +1,12 @@
-2nd Dan of Git.
+2
+d Dan of Git.
 
 * [x] value write up 
 * [x] command list
 * [ ] pics of each step
 * [ ] gifs of each step
 
+![img](../Img/octobiwan.jpg)
 
 ## Value and what you will be able to do.
 
