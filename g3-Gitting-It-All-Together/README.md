@@ -18,7 +18,21 @@ In our example we are giving our website "telekinesis".
 
 gif of `git branch` `git branch telekinesis` `git checkout telekinesis`
 
-check that your
+### check your current branches (should come up with a unique name)
+
+gif of above
+
+```sh
+git branch
+```
+
+### make a new branch named after your feature
 
 
-so 
+gif of creating new branch and git branch
+```sh
+git branch <feature-name>
+```
+type `git branch` again and note you have another branch :smile:
+
+``` 
