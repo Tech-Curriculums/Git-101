@@ -33,9 +33,11 @@ Project Ideas for:
 g1: 
   * forking and cloning a website template
   * forking then cloning a cool project
+ 
 g2: 
   * adding a brand new project to github
   * cloning and pushing to github (without a readme first)
+
 g3:
   * working on a template website and adding new pages to the site.
   * git log, git status, and communication
