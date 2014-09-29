@@ -18,4 +18,4 @@ learning a huge milestone: the feature-branch workflow
 
 <img src="./Img/collabocats.jpg" width="60px"/>
 
-  * **g3-gitting-together:** learn to use a useful workflow: the feature-branch workflow
+  * **g3-gitting-together:** learn to use the feature-branch workflow, especially useful when working in teams.
