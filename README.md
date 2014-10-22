@@ -23,10 +23,21 @@ learning a huge milestone: the feature-branch workflow
 
 # Todo
 
+Youtube Videos for:
+* [ ] g1
+* [ ] g2 
+* [ ] g3
+
 Project Ideas for:
 * [ ] g1
 * [ ] g2 
 * [ ] g3
+
+Preview Page of Next Course Material:
+* dangerous but essential git-tools for those seeking mastery (not for the feint of heart)
+ * git rebase
+ * git reset
+ * git revert
 
 #### Brainstorming
 
